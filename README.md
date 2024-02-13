@@ -49,6 +49,3 @@ spacy <br>
 yellowbrick <br>
 dataframe_image <br>
 mlxtend <br>
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
