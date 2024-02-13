@@ -18,7 +18,9 @@ Plot: Plot summary of the movies <br>
 ## Code Structure
 The codebase is organized as follows:
 
-### data_exploration.ipynb:  <br>
+```
+data_exploration.ipynb:  <br>
+```
 
 Jupyter Notebook containing the data exploration and preprocessing steps. <br>
 README.md: Documentation providing an overview of the project, dataset, and code structure. <br>
@@ -29,7 +31,9 @@ utils.py: Python script containing utility functions used in the project. <br>
 To run the code, follow these steps:
 
 Install the required libraries by running:
-### pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 
 Download the dataset from Kaggle and place it in the project directory.
 Open and run the 
