@@ -49,3 +49,28 @@ spacy <br>
 yellowbrick <br>
 dataframe_image <br>
 mlxtend <br>
+
+# Conclusion
+
+## Model Performance:
+
+*   Linear SVM model achieved the highest accuracy among the three classifiers with an accuracy of around 65%.
+*   Multinomial Naive Bayes and Logistic Regression models performed slightly worse, with accuracies around 61%.
+
+## Feature Importance:
+
+*   The models were trained on TF-IDF vectors of the plot summaries. Certain words or combinations of words might have been more indicative of certain genres, contributing to the models' predictive performance.
+*   Future analysis could involve examining feature importances or coefficients from the models to understand which words or phrases are most influential in predicting specific genres. 
+
+## Hyperparameter Tuning:
+
+*   Hyperparameter tuning improved the performance of the models to some extent. However, there might still be room for further optimization, especially considering different parameter combinations or using more advanced techniques like ensemble methods. 
+
+# Further Steps:
+
+The project could benefit from additional data preprocessing techniques, such as experimenting with different text cleaning methods or incorporating more advanced NLP features like word embeddings.
+Exploring other machine learning algorithms or ensemble methods could potentially improve performance further.
+
+
+*   The project could benefit from additional data preprocessing techniques, such as experimenting with different text cleaning methods or incorporating more advanced NLP features like word embeddings.
+*   Exploring other machine learning algorithms or ensemble methods could potentially improve performance further.
