@@ -66,11 +66,7 @@ mlxtend <br>
 
 *   Hyperparameter tuning improved the performance of the models to some extent. However, there might still be room for further optimization, especially considering different parameter combinations or using more advanced techniques like ensemble methods. 
 
-# Further Steps:
-
-The project could benefit from additional data preprocessing techniques, such as experimenting with different text cleaning methods or incorporating more advanced NLP features like word embeddings.
-Exploring other machine learning algorithms or ensemble methods could potentially improve performance further.
-
+## Further Steps:
 
 *   The project could benefit from additional data preprocessing techniques, such as experimenting with different text cleaning methods or incorporating more advanced NLP features like word embeddings.
 *   Exploring other machine learning algorithms or ensemble methods could potentially improve performance further.
