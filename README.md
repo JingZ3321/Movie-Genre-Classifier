@@ -18,10 +18,6 @@ Plot: Plot summary of the movies <br>
 ## Code Structure
 The codebase is organized as follows:
 
-```
-data_exploration.ipynb:  <br>
-```
-
 Jupyter Notebook containing the data exploration and preprocessing steps. <br>
 README.md: Documentation providing an overview of the project, dataset, and code structure. <br>
 Images/: Directory containing images generated during data exploration (e.g., histograms, bar plots). <br>
@@ -37,7 +33,9 @@ pip install -r requirements.txt
 
 Download the dataset from Kaggle and place it in the project directory.
 Open and run the 
-### data_exploration.ipynb 
+```
+data_exploration.ipynb 
+```
 notebook to explore the dataset, preprocess the data, and build the classification model.
 
 ## Dependencies
