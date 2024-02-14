@@ -1,4 +1,5 @@
 # Movie-Genre-Classifier
+[Open in Google Colab](https://colab.research.google.com/drive/17Roeix89KxFImdsRUGC02bHDXFCtXpda?usp=sharing)
 
 ## Overview
 The Movie Genre Classifier project aims to develop a predictive model capable of automatically assigning genres to movies based on their plot summaries. Leveraging natural language processing (NLP) techniques and machine learning algorithms, the classifier analyzes textual data to predict the genre(s) of a given movie.
